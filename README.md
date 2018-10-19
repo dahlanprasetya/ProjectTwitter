@@ -1,7 +1,7 @@
 ## Simple Twitter Backend App Dahlan jjjjjjjj
 ______________________________
 
-This application show you about twitter in general. My application runs in local host:8000. There are some files in this repository :
+This application show you about basic twitter application in general. My application runs in local host:8000. There are some files in this repository :
 - `.env`              : Contain data about port, host, debug.
 - `appTweet`          : Main file to run the app
 - `cookiesTwitter`    : Contain API
